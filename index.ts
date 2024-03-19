@@ -2,7 +2,7 @@ import inquirer from "inquirer";
 // import prompt from "inquirer/lib/ui/prompt.js"
 // tsc
 // node indexedDB.js
-
+// git cammands;
 // ";
 
 const prompt = await inquirer.prompt([
